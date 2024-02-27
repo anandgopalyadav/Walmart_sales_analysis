@@ -86,7 +86,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 5. What month had the largest COGS?
 6. What product line had the largest revenue?
 5. What is the city with the largest revenue?
-6. What product line had the largest VAT?
+6. What product line had the largest tax_pct?
 7. Which branch sold more products than average product sold?
 8. What is the most common product line by gender?
 9. What is the average rating of each product line?
