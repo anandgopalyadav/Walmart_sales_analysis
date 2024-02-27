@@ -20,7 +20,7 @@ df1 = pd.read_sql(query1, conn)
 pd.set_option("display.max_columns", None)
 # pd.set_option("display.max_rows", None)
 print(df1)
-
+print(df1.columns)
 
 
 conn.close()
